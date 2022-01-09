@@ -1,2 +1,0 @@
-# judeoarabickeyboard
-Judeo-Arabic Keyboard
